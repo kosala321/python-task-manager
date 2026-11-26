@@ -42,3 +42,6 @@ Install dependencies:
 Visit:
 
     http://127.0.0.1:8000/docs
+
+## Development
+Run tests using python -m pytest -v.
